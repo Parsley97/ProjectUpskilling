@@ -8,3 +8,4 @@ Project upskilling aims to help the Upskilling staff @ HTU to improve the operat
 #### Features:
 1. easily add students with their full info.
 2. add, delete, edit any technical track to suite the latest technological trends.
+3. protable, fast, written in Java
