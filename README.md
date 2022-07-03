@@ -6,5 +6,5 @@
 #### Project upskilling is in early alpha, for further info contact Hamza Asefan @ hamzaasefan(at)htu(dot)edu(dot)jo
 
 #### Features:
-	1. easily add students with their full info.
-	2. add, delete, edit any technical track to suite the latest technological trends.
+1. easily add students with their full info.
+2. add, delete, edit any technical track to suite the latest technological trends.
